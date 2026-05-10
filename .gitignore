@@ -208,4 +208,22 @@ __marimo__/
 
 
 .DS_Store
-.vscode
+.vscode 
+
+# --- Code Quality & Testing ---
+.ruff_cache/
+.pytest_cache/
+__pycache__/
+
+
+# --- IDE & Editor Junk ---
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
