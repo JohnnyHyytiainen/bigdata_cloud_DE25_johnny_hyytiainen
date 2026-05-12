@@ -1,4 +1,5 @@
 # Lesson notes, first class in new course.
+**11/05-2026**
 
 Todays lesson agenda:
 - Kursplan
